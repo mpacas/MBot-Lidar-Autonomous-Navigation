@@ -1,0 +1,6 @@
+/code/build/CMakeFiles/rebuild_cache.dir
+/code/build/CMakeFiles/edit_cache.dir
+/code/build/autonomous_navigation/CMakeFiles/rebuild_cache.dir
+/code/build/autonomous_navigation/CMakeFiles/edit_cache.dir
+/code/build/autonomous_navigation/CMakeFiles/nav_app_server.dir
+/code/build/autonomous_navigation/CMakeFiles/test_graph.dir
